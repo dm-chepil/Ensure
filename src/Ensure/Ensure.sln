@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnsureCore", "Ensure\Ensure
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{A526B011-B0AD-4787-9339-9929E9C13A44}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnsureTests", "EnsureTests\EnsureTests.csproj", "{14CA34F4-57A6-48D6-AAAE-30F9955F480C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A526B011-B0AD-4787-9339-9929E9C13A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A526B011-B0AD-4787-9339-9929E9C13A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A526B011-B0AD-4787-9339-9929E9C13A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CA34F4-57A6-48D6-AAAE-30F9955F480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CA34F4-57A6-48D6-AAAE-30F9955F480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CA34F4-57A6-48D6-AAAE-30F9955F480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CA34F4-57A6-48D6-AAAE-30F9955F480C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
