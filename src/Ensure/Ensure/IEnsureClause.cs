@@ -1,4 +1,4 @@
-﻿namespace Ensure
+﻿namespace EnsureCore
 {
     public interface IEnsureClause
     { 

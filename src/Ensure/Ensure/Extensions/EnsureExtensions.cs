@@ -1,4 +1,4 @@
-﻿namespace Ensure.Extensions
+﻿namespace EnsureCore.Extensions
 {
     public static class EnsureExtensions
     {

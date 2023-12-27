@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Ensure/.vs/Ensure
+/src/Ensure/Ensure/bin/Debug/net6.0
+/src/Ensure/Ensure/obj/Debug/net6.0
+/src/Ensure/.vs
+/src/Ensure/EnsureTests/bin/Debug/net6.0
+/src/Ensure/EnsureTests/obj
+/src/Ensure/Example/bin/Debug/net6.0
+/src/Ensure/Example/obj
