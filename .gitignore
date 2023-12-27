@@ -10,3 +10,8 @@
 /src/Ensure/EnsureTests/obj
 /src/Ensure/Example/bin/Debug/net6.0
 /src/Ensure/Example/obj
+/src/Ensure/Ensure/obj/EnsureCore.csproj.nuget.dgspec.json
+/src/Ensure/Ensure/obj/EnsureCore.csproj.nuget.g.targets
+/src/Ensure/Ensure/obj/project.assets.json
+/src/Ensure/Ensure/obj/EnsureCore.csproj.nuget.g.props
+/src/Ensure/Ensure/obj/project.nuget.cache
